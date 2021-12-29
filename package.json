@@ -30,7 +30,7 @@
     "nconf": "0.5.x",
     "nib": "*",
     "node-ga": "0.1.x",
-    "node-sass": "~0.6.7",
+    "node-sass": "~3.6.0",
     "request": "2.x",
     "sass": "~0.5.0",
     "stylus": "*",
