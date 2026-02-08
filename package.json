@@ -27,7 +27,7 @@
     "lru-cache": "1.1.x",
     "marked": "*",
     "mime": "*",
-    "nconf": "0.5.x",
+    "nconf": "0.13.0",
     "nib": "*",
     "node-ga": "0.1.x",
     "node-sass": "~0.6.7",
